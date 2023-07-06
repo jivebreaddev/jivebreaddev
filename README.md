@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon Park</h1>
 <h3 align="center">최적인가? 자동화 되나? 최악의 상황에도 유지가능한가?를 생각하는 개발자입니다.</h3>
 
-- 🔭 I’m currently working on **Kubernetes 자격증 공부**
-
-- 🌱 I’m currently learning **K8s**
-
 - 🤝 I’m looking for help with **내가 만든 설계에 대한 문제점들**
 
 - 👨‍💻 All of my projects are available at [github.com/jivebreaddev](github.com/jivebreaddev)
