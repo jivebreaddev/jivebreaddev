@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jivebreaddev@gmail.com**
 
-- CS Major
+- 👨‍💻 CS Major
   
 <p align="center">
 </p>
