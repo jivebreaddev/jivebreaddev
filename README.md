@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jivebreaddev@gmail.com**
 
-- 👨‍💻 CS Major
+- 👨‍💻 Troy University '15 컴퓨터 과학
   
 <p align="center">
 </p>
