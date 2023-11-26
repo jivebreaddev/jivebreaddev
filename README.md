@@ -22,10 +22,3 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>  </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jivebreaddev&show_icons=true&locale=en" alt="jivebreaddev" /></p>
-
-
-
-
-- 테라폼 관련 repository:
-- https://gitlab.com/simonsichangpark/recipe-app-api-devops
-- terraform을 사용해서 aws에 간단한  recipe 앱을 자동화 배포
